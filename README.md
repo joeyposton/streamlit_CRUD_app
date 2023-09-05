@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 You can install the necessary packages using pip:
 
 ```bash
-pip install streamlit pandas
+pip install –r requirements.txt
 ```
 
 ### Running the App
